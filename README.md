@@ -10,3 +10,5 @@ The data is saved in a CSV file for further analysis.
 - Retrieves most active stocks by trading volume
 - Saves the data in a CSV file for analysis
 
+#The scraper may fail if Google Finance changes its website structure.
+
